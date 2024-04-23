@@ -1,0 +1,2 @@
+# DOCS
+The Hultrix Documentation.
